@@ -1,0 +1,27 @@
+.col{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-wrap: nowrap;
+  
+
+}
+.card1{
+    background-color: lightblue;
+}
+.card2{
+    background-color: darkblue;
+    
+}
+.card3{
+    background-color: blue;
+}
+#hassan{
+    text-align: center;
+    color: white;
+    background-color: darkgreen;
+}
+
+ 
+
+
